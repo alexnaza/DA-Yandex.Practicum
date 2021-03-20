@@ -1,5 +1,4 @@
 ## Аналитик данных — Яндекс.Практикум
 
 ### В репозитории аналитические проекты курса 
-
-Ссылка на курс: https://praktikum.yandex.ru/data-analyst/
+https://praktikum.yandex.ru/data-analyst/
